@@ -1,0 +1,22 @@
+.form {
+  width: 360px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+input[type='number'] {
+  width: 100%;
+  padding: 8px;
+}
+
+fieldset {
+  display: flex;
+  gap: 20px;
+  padding: 16px;
+}
+
+button {
+  padding: 8px;
+  cursor: pointer;
+}
